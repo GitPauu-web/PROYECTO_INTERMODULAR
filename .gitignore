@@ -1,1 +1,10 @@
+# Dependencias (NUNCA subir esta carpeta)
 node_modules/
+
+# Archivos de entorno y configuración local
+.env
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+npm-debug.log*
