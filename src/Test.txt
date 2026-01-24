@@ -2,4 +2,4 @@ Test 1: Instalación de módulos -> Resultado: Correcto (aparecen en package.jso
 
 Test 2: Ejecución con Nodemon -> Resultado: El servidor detecta cambios al guardar.
 
-Test 3: Acceso web -> Resultado: Al entrar en localhost:3000 veo el mensaje de bienvenida.
+Test 3: Acceso web -> Resultado: Al entrar en localhost:8080 veo el mensaje de bienvenida.
