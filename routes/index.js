@@ -51,5 +51,9 @@ router.post("/contacto", (req, res) => {
   console.log("Mensaje de: ", req.body);
   res.send("Mensaje enviado");
 });
+router.post("/guardarPartida", (req, res) => {
+  console.log("Se ha guardado la partida: ", req.body);
+  res.send("Partida guardada");
+});
 
 module.exports = router;
