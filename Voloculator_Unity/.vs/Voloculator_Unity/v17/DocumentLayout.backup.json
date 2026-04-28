@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorio\\Voloculator_Unity\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\RepositorioFrontend\\Voloculator_Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2B184E7-C36C-EFBA-4E9E-E84B279FCC1D}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\repositorio\\voloculator_unity\\assets\\scripts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B184E7-C36C-EFBA-4E9E-E84B279FCC1D}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\repositoriofrontend\\voloculator_unity\\assets\\scenes\\registerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B184E7-C36C-EFBA-4E9E-E84B279FCC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\registerscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B184E7-C36C-EFBA-4E9E-E84B279FCC1D}|Assembly-CSharp.csproj|c:\\users\\usuario\\desktop\\repositoriofrontend\\voloculator_unity\\assets\\scripts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B184E7-C36C-EFBA-4E9E-E84B279FCC1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegisterScene.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\RepositorioFrontend\\Voloculator_Unity\\Assets\\Scenes\\RegisterScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\RegisterScene.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\RepositorioFrontend\\Voloculator_Unity\\Assets\\Scenes\\RegisterScene.cs",
+              "RelativeToolTip": "Assets\\Scenes\\RegisterScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T01:46:49.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio\\Voloculator_Unity\\Assets\\Scripts\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\RepositorioFrontend\\Voloculator_Unity\\Assets\\Scripts\\Login.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Login.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio\\Voloculator_Unity\\Assets\\Scripts\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\RepositorioFrontend\\Voloculator_Unity\\Assets\\Scripts\\Login.cs",
               "RelativeToolTip": "Assets\\Scripts\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T05:06:07.033Z",
               "EditorCaption": ""
